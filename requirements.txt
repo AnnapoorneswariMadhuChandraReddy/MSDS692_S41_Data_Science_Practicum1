@@ -1,0 +1,34 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+joblib
+regex
+scikit-learn
+xgboost
+
+# NLP preprocessing
+nltk
+langdetect
+wordcloud
+textblob
+vaderSentiment
+spacy
+
+# Deep Learning & Transformers
+torch
+transformers
+sentence-transformers
+
+# Topic Modelling
+bertopic
+umap-learn
+hdbscan
+
+# Visualization & App
+plotly
+
+# Utilities
+requests
